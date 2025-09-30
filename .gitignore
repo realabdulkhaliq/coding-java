@@ -13,7 +13,10 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
+nblibraries.properties
+genfiles.properties
+project.properties
+private.properties
 
 build/
 !**/src/main/**/build/
